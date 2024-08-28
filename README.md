@@ -6,8 +6,6 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-# hello world, I'm Prajwal Kumar and I'm happy to learn AI Toolchains!
-# This is my second header in this file
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
@@ -31,8 +29,6 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 1. Click **Merge pull request**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-
-# Hello, I'm glad I made it this far in this course. I'm Prajwal Kumar!
 <footer>
 
 <!--
